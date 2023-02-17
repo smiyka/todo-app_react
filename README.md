@@ -1,4 +1,4 @@
-#React ToDo App
+# React ToDo App
 
 - [DEMO LINK](https://smiyka.github.io/todo-app_react/)
 ![todoapp](./description/todoapp.gif)
